@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Zen Dots';
+    src: url('../fonts/ZenDots-Regular.eot');
+    src: url('../fonts/ZenDots-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ZenDots-Regular.woff2') format('woff2'),
+         url('../fonts/ZenDots-Regular.woff') format('woff'),
+         url('../fonts/ZenDots-Regular.svg#ZenDots-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALKDots';
+    src: url('../fonts/alkdots-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alkdots-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alkdots-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alkdots-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
+}
+
